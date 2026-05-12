@@ -1,0 +1,9 @@
+.vscode/
+.venv/
+__pycache__/
+*.pyc
+.vault_key
+*.vault_key*
+medviet-governance/.vault_key*
+medviet-governance/data/raw/*.csv
+medviet-governance/data.zip
